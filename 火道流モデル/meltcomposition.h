@@ -1,0 +1,2 @@
+#pragma once
+void composiotion_melt(double comp_melt_ini[], double comp_melt[], double comp_pl[], double comp_py[], double comp_o[], double comp_q[], double comp_s[], double comp_cl[], double comp_or[], double xc[], double xci[], double P, double tw[],double watersuminitial);
